@@ -106,7 +106,7 @@ MIDI monitoring applications are very useful for routing debugging and troublesh
 
 Windows: [MIDI-OX](http://www.midiox.com/)
 
-MacOS: [Snoize MIDI monitor and Sysex Librarian](http://www.midiox.com/)
+MacOS: [Snoize MIDI monitor and Sysex Librarian](https://www.snoize.com/)
 
 ### Installing Auracle X
 
