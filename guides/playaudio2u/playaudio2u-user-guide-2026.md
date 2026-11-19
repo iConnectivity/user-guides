@@ -504,14 +504,14 @@ To select between headphone mixer options:
 
 <img src="../playaudio2d/images/hp/A2.png" alt="Headphone mix A2 detail.">
 
-- All 32 outputs from USB DAW A
+- All 24 outputs from USB DAW A
 - All four analog inputs
 
 ##### Mix A3
 
 <img src="../playaudio2d/images/hp/A3.png" alt="Headphone mix A3 detail.">
 
-- All 32 outputs from USB DAW B
+- All 24 outputs from USB DAW B
 - All four analog inputs
 
 ##### Mix A4

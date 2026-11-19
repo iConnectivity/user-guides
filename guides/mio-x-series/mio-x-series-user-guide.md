@@ -240,20 +240,20 @@ Bootloader Mode is a special service mode used to perform firmware updates. Norm
 To manually force your mioXM or mioXL into Bootloader mode:
 
 **mioXM**
-1. Power on your mioXM and wait until the bootup process is complete.
+1. Power off your mioXM by long pressing the Function Button (for 4 to 5 seconds) until all LEDs are turned off, then immediately release the funciton button.
 
-2. Long press the function button until all mode buttons illuminate red, then immediately release the function button.
+2. Long press the function button again until all LEDs illuminate red, then immediately release the function button.
 
 The mioXM will reboot and enter Bootloader mode ready to accept a manual firmware file send.
 
-> **Note:** The mioXM is in Bootloader mode when the OLED display is blank and both the DIN-MIDI and USB-MIDI LEDs alternately flash green.
+> **Note:** The mioXM is in Bootloader mode when the LED display is blank and both the DIN-MIDI and USB-MIDI LEDs alternately flash green.
 
 ---
 
 **mioXL**
-1. Power off your mioXL by long pressing the Parameter/Power Knob until the powering off countdown completes.
+1. Power off your mioXL by long pressing the Parameter/Power Knob until the powering off countdown completes and the unit is off.
 
-2. Long press the Parameter/Power Knob until all mode buttons illuminate red, then immediately release the function button.
+2. Long press the Parameter/Power Knob until all LEDs illuminate red, then immediately release the Parameter/Power Knob.
 
 The mioXL will reboot and enter Bootloader mode ready to accept a manual firmware file send.
 

@@ -9,7 +9,7 @@ Congratulations on the purchase of your new PlayAUDIO1U USB Audio & MIDI interfa
 
 - Two USB Type C DAW ports – use up to 2 computer devices Mac OS/Windows simultaneously
 - Twelve  XLR analog audio Line Outputs 
-- Stereo ¼” headphone output with two independent mixes (summable to one mix)
+- Stereo 1/4” headphone output with two independent mixes (summable to one mix)
 - DIN-MIDI ports built-in (1-in, 1-out)
 - USB Host port (connect up to 8 USB MIDI class-compliant devices with a USB hub)
 - Two MIDI mappable CONTROL footswitch ports
@@ -51,7 +51,7 @@ Congratulations on the purchase of your new PlayAUDIO1U USB Audio & MIDI interfa
 - **Capacitive (cap) touch buttons & OLED**. Manually switch scenes or inspect real time MIDI and audio information
 - **Rotary Encoder**. Multi-function encoder. Double press to save current settings or spin to cycle through pages in the currently selected page 
 - **USB DAW ports**. USB C ports for connecting computers or tablets.**
-- **3.5mm Headphone port**. Stereo mix
+- **1/4" Headphone port**. Stereo mix
 - **Headphone Rotary Encoder**. Multi-function encoder. Rotate to increase/decrease the headphone mix output volume; this also temporarily calls up the headphone volume display. Additionally: Double press to mute all rear outputs; double press again to unmute; press once to call the headphone volume display, and press again to return to the previous active menu. 
 
 ### Rear Panel
