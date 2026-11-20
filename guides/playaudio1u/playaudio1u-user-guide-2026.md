@@ -254,7 +254,7 @@ Manual Failover allows you to control scene switching at the touch of an cap tou
 
 2. Connect your primary playback computer to USB DAW Port A and connect your backup playback computer to USB DAW Port B and select the PlayAUDIO1U as the output interface on both computers.
 
-3. Route the LifeSine audio channel to output 35 on both computers.
+3. Route the LifeSine audio channel to output 15 on both computers.
 
 4. Verify that the PlayAUDIO1U is set to Scene A, or touch the Scene Mode Button to switch to Scene A from Scene B.
 

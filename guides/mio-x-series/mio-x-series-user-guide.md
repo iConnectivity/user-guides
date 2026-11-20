@@ -11,7 +11,7 @@ Congratulations on the purchase of your new mio X-Series MIDI interface!
 
 **mioXM**
 - DIN-MIDI ports built-in (4-in, 4-out)
-- USB Host ports (4 availalbe on-board; connect up to 8 USB MIDI class-compliant devices with a USB hub)
+- USB Host ports (4 available on-board; connect up to 8 USB MIDI class-compliant devices with a USB hub)
 - USB-DAW port supporting mac and Windows connectivity
 - Ethernet RTP-MIDI Network port
 - Capacitive touch control panel
@@ -238,13 +238,13 @@ Bootloader Mode is a special service mode used to perform firmware updates. Norm
 To manually force your mioXM or mioXL into Bootloader mode:
 
 **mioXM**
-1. Power off your mioXM by long pressing the Function Button (for 4 to 5 seconds) until all LEDs are turned off, then immediately release the funciton button.
+1. Power off your mioXM by long pressing the Function Button (for 4 to 5 seconds) until all LEDs are turned off, then immediately release the function button.
 
 2. Long press the function button again until all LEDs illuminate red, then immediately release the function button.
 
 The mioXM will reboot and enter Bootloader mode ready to accept a manual firmware file send.
 
-> **Note:** The mioXM is in Bootloader mode when the LED display is blank and both the DIN-MIDI and USB-MIDI LEDs alternately flash green.
+> **Note:** The mioXM is in Bootloader mode when the DIN-MIDI and USB-MIDI LEDs alternately flash green.
 
 ---
 
@@ -288,8 +288,6 @@ The top row LEDs illuminate whenever there is activity on any of the I/O ports:
 | **USB-MIDI** | MIDI on USB Host Ports |
 | | |
 
-Touch any bottom row touch cap button on the mioXL once to exit to the main OLED display showing the current active preset.
-
 #### Top Row LED Color Legend
 
 | Color | Meaning |
@@ -301,7 +299,7 @@ Touch any bottom row touch cap button on the mioXL once to exit to the main OLED
 
 #### Bottom Row Control
 
-The four bottom capacitive touch buttons correspond to onboard memory presets. After saving configuration changes to your mioXM or to your computer using the Auracle X applicaiton, touch a memory preset to instantly recall that preset.
+The four bottom capacitive touch buttons correspond to onboard memory presets. After saving configuration changes to your mioXM or to your computer using the Auracle X application, touch a memory preset to instantly recall that preset.
 
 #### Memory Preset Legend
 
@@ -357,7 +355,7 @@ The four bottom capacitive touch buttons are used to navigate through user prese
 | **Back** | Press to highlight the previous preset. Current preset selection does not change until **Load** is pressed. |
 | **Next** | Press to highlight the next preset. Current preset selection does not change until **Load** is pressed.|
 | **Load** | Press to load |
-| **Save** | The active memory preset has no unsaved preset-level configuration changes|
+| **Save** | Press to save the current state of the mioXL to the currently selected preset. |
 | | |
 
 ### MIDI Panic
