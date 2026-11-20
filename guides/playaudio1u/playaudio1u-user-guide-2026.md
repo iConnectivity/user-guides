@@ -327,7 +327,7 @@ Fine adjustments are recommended if there is a risk of signal overload. Rotary E
 | **Commit Settings to Memory** | Short press the Main Rotary Encoder twice to save the current state of the PlayAUDIO1U to the current preset. A notification will appear on the OLED and all Mode buttons will flash green three times.   |
 | **Restart unit** | Long press the main rotary encoder for approximately 10 seconds until all cap touch buttons have turned off after illuminating in red, then release. |
 | **Enter Bootloader Mode** | Long press the main rotary encoder for approximately 6 seconds until all Mode buttons illuminate red and release while buttons are still illuminated red. |
-| **View Failover Tone information** | From the Home page, turn the encoder clockwise to access audio meter displays showing the current level of the failover tone in both numerical and live metering <br>No tone will produce a blank meter display above the “Tone A” and “Tone B” labels. <br>Note that a failover tone level above -3dBFS will cause the PlayAUDIO1U to enter into Safe Mode and all analog and Dante Transmit outputs to be automatically muted. <br>You will not be able to unmute analog outputs until the failover tone level is adjusted below the threshold displayed on the Tone Meter menu page. |
+| **View Failover Tone information** | From the Home page, turn the encoder clockwise to access audio meter displays showing the current level of the failover tone in both numerical and live metering <br>No tone will produce a blank meter display above the “Tone A” and “Tone B” labels. <br>Note that a failover tone level above -3dBFS will cause the PlayAUDIO1U to enter into Safe Mode and all analog outputs to be automatically muted. <br>You will not be able to unmute analog outputs until the failover tone level is adjusted below the threshold displayed on the Tone Meter menu page. |
 
 ### OLED Cap Touch Panel
 <img src="images/playaudio1u-oled-audio.png" alt="PlayAUDIO1U cap touch buttons detail.">
@@ -457,6 +457,7 @@ Complete instructions on configuring Control port footswitch actions can be foun
 ### Audio
 
 **Digital Performance**
+
 - 24-bit resolution
 - Supported sample rates: 44.1 kHz, 48 kHz, 88.2 kHz, and 96 kHz
 

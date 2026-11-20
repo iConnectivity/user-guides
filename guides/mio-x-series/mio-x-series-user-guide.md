@@ -11,7 +11,7 @@ Congratulations on the purchase of your new mio X-Series MIDI interface!
 
 **mioXM**
 - DIN-MIDI ports built-in (4-in, 4-out)
-- USB Host ports (4 avaialbe on-board; connect up to 8 USB MIDI class-compliant devices with a USB hub)
+- USB Host ports (4 availalbe on-board; connect up to 8 USB MIDI class-compliant devices with a USB hub)
 - USB-DAW port supporting mac and Windows connectivity
 - Ethernet RTP-MIDI Network port
 - Capacitive touch control panel
@@ -20,7 +20,7 @@ Congratulations on the purchase of your new mio X-Series MIDI interface!
 
 **mioXL**
 - DIN-MIDI ports built-in (8-in, 12-out)
-- USB Host ports - 10 avaialbe on-board
+- USB Host ports - 10 available on-board
 - USB-DAW port supporting mac and Windows connectivity
 - Ethernet RTP-MIDI Network port
 - OLED display with Parameter/Power Knob
@@ -39,8 +39,8 @@ Congratulations on the purchase of your new mio X-Series MIDI interface!
 ### Minimum System Requirements
 - macOS - macOS 12 or later (for Auracle X control software), One free USB port for firmware updates
 - PC/Windows - Windows 10 or later (for Auracle X control software), One free USB port
-- iOS - Device must be equipped with a USB-C port and CoreMIDI compatible app
-- Android - Android 8.0 or higher with USB-C connector
+- iOS - Device must be equipped with a USB port and CoreMIDI compatible app
+- Android - Android 8.0 or higher with USB connector
 
 ## Hardware Description
 
@@ -49,7 +49,7 @@ Congratulations on the purchase of your new mio X-Series MIDI interface!
 <img src="images/mioxm-panel-front.png" width="600" alt="mioXM front panel description">
 
 - **Function button.** Short press to power on. Long press until all LEDs are off to power off. Long press and release when LEDs turn red to enter bootloader mode.
-- **Touch Panel**. Recall user memory or inspect real time MIDI and audio information
+- **Touch Panel**. Recall user memory or inspect real time MIDI information
 - **MIDI DIN ports.** 5 pin DIN connections for MIDI controllers, modules, etc.
 - **RTP MIDI PORT.** Make long distance MIDI connections over ethernet.
 - **Device Port.** USB B port for connecting computers or tablets.
@@ -69,9 +69,9 @@ Congratulations on the purchase of your new mio X-Series MIDI interface!
 
 <img src="images/mioxl-panel-front.png" width="800" alt="mioXL front panel description">
 
-- **Touch Panel.** Recall user memory or inspect real time MIDI and audio information
-- **OLED Dispaly.** Inspect realtime interface and MIDI monitoring information
-- **Parameter/Power Knob.** Multi-function encoder. Turn to navigate through menu options and press to enter. Long press to call power off countdown.
+- **Touch Panel.** Recall user memory or inspect real time MIDI information
+- **OLED Display.** Inspect realtime interface and MIDI monitoring information
+- **Parameter/Power Knob.** Multi-function encoder. Turn to navigate through menu options and press to enter. Long press to call power off countdown. Short press to power on if the device is powered off.
 - **DIN MIDI ports.** 5 pin DIN connections for MIDI controllers, modules, etc.
 - **USB Host Ports.** Connect USB MIDI class-compliant devices.
 - **Device Port.** USB B port for connecting computers or tablets.
@@ -92,13 +92,11 @@ Congratulations on the purchase of your new mio X-Series MIDI interface!
 
 There are no software drivers to download or install; the mio X-Series interface uses the USB MIDI class-compliant drivers built into macOS.
 
-### Windows - Install iConnectivity Audio Drivers
+### Windows - Install iConnectivity Drivers
 
-Before connecting the PlayAUDIO1U to a Windows computer please download and install the latest version of our Unified Windows Driver at https://www.iconnectivity.com/windows-drivers.
+Before connecting the mioXM or mioXL to a Windows computer please download and install the latest version of our Unified Windows Driver at https://www.iconnectivity.com/windows-drivers.
 
-Connect your computer to your PlayAUDIO1U USB DAW Port A using a USB 2.0 or better data cable.
-
-The interface should appear as a standard audio output device in Windows. You can route audio from music or video apps directly to the interface to test.
+Connect your computer to your mioXM or mioXL USB DAW Port using a USB 2.0 or better data cable.
 
 ### Auracle X configuration software from iConnectivity
 
@@ -205,11 +203,11 @@ The preferred method for updating your device’s firmware is to use iConnectivi
 
 In rare situations, you may prefer to manually update your firmware using the bootloader. This will require several steps:
 
-1. Download the firmware from the iConnectivity website Firmware Page
+1. Download the firmware from the iConnectivity website Firmware Page.
 
-2. Manually set your mioXM or mioXL interface to Bootloader Mode by following the instructions here
+2. Manually set your mioXM or mioXL interface to Bootloader Mode by following the instructions [here](#bootloader-mode).
 
-3. Transmit the firmware file to the mioXM or mioXL and allow the update to complete
+3. Transmit the firmware file to the mioXM or mioXL and allow the update to complete.
 
 4. Manually restart your mioXM or mioXL by first powering off the device and then powering on again.
 
@@ -251,7 +249,7 @@ The mioXM will reboot and enter Bootloader mode ready to accept a manual firmwar
 ---
 
 **mioXL**
-1. Power off your mioXL by long pressing the Parameter/Power Knob until the powering off countdown completes and the unit is off.
+1. Power off your mioXL by long pressing the Parameter/Power Knob until the powering off countdown completes and the unit is off, then immediately release the Parameter/Power knob.
 
 2. Long press the Parameter/Power Knob until all LEDs illuminate red, then immediately release the Parameter/Power Knob.
 
@@ -261,33 +259,39 @@ The mioXL will reboot and enter Bootloader mode ready to accept a manual firmwar
 
 ## Controls
 
-### mioXM Function button
+### mioXM
+
+<img src="images/mioxm-front-controls-detail.png" width="400" alt="mioXM LED panel detail">
+
+#### Function Button
 
 | Function  | Action    |
 | ---       | ---       |
-| **Power On ** | Short press |
+| **Power On** | Short press when unit is powered off |
 | **Power Off** | Long press until all LEDs are turned off then immediately release |
 | **Bootloader Mode** | From power off state, long press until all LEDs illuminate red then immediately release |
 | | |
 
-### Using the Touch Panel, Main Parameter/Power Knob and Bottom Row Controls on the mioXL
+#### Using the Touch Panel on the mioXM
 
-The interactive Touch Panel on the front of the mioXL controls several functions of the
-interface and displays status on eight LEDs. 
+The interactive Touch Panel on the front of the mioXM controls several functions of the interface and displays status on eight LEDs. 
 
-#### Top Row LEDs
+#### Top Row LEDs on the mioXM
 
 The top row LEDs illuminate whenever there is activity on any of the I/O ports:
-- **USB-DAW** - USB MIDI between mioX and your computer; double tap to send a MIDI panic message 
-- **RTP-MIDI** - RTP/Network MIDI
-- **DIN-MIDI** - MIDI on DIN Ports
-- **USB-MIDI** - MIDI on USB Host Ports
 
-You can also touch any of the top row LEDs to call the respective MIDI monitor on the mioXL OLED display.
+| LED | Function |
+| --- | --- |
+| **USB-DAW**  | USB MIDI between mioXM/L and your computer; double tap to send a MIDI panic message |
+| **RTP-MIDI** | RTP/Network MIDI |
+| **DIN-MIDI** | MIDI on DIN Ports |
+| **USB-MIDI** | MIDI on USB Host Ports |
+| | |
 
-Touch any bottom row touch cap button once to exit to the main OLED dispaly showing the current active preset.
+Touch any bottom row touch cap button on the mioXL once to exit to the main OLED display showing the current active preset.
 
 #### Top Row LED Color Legend
+
 | Color | Meaning |
 | --- | --- |
 | **Red** | MIDI / Sysex information received on the flashing port |
@@ -295,7 +299,7 @@ Touch any bottom row touch cap button once to exit to the main OLED dispaly show
 | **Amber** | MIDI / Sysex information both sent and received on the flashing port |
 | | |
 
-#### Bottom Row Controls
+#### Bottom Row Control
 
 The four bottom capacitive touch buttons correspond to onboard memory presets. After saving configuration changes to your mioXM or to your computer using the Auracle X applicaiton, touch a memory preset to instantly recall that preset.
 
@@ -307,7 +311,56 @@ The four bottom capacitive touch buttons correspond to onboard memory presets. A
 | **Green** |The active memory preset has no unsaved preset-level configuration changes|
 | | |
 
-#### MIDI Panic
+### mioXL
+
+<img src="images/mioxl-front-panel-detail.png" height="100" alt="mioXL OLED and front panel detail">
+
+#### Parameter/Power Knob
+
+| Button | Function |
+| --- | --- |
+| **Short Press**  | Select currently displayed menu item |
+| **Long Press** | Enter bootloader mode or power off |
+| **Turn** | Navigate through the currently selected menu |
+| | |
+
+
+#### Top Row Cap Touch LEDs on the mioXL
+
+The top row LEDs illuminate whenever there is activity on any of the I/O ports:
+
+| Button | Function |
+| --- | --- |
+| **USB-DAW**  | USB MIDI between mioXM/L and your computer; double tap to send a MIDI panic message |
+| **RTP-MIDI** | RTP/Network MIDI |
+| **DIN-MIDI** | MIDI on DIN Ports |
+| **USB-MIDI** | MIDI on USB Host Ports |
+| | |
+
+#### Top Row LED Color Legend
+
+| Color | Meaning |
+| --- | --- |
+| **Red** | MIDI / Sysex information received on the flashing port |
+| **Green** | MIDI / Sysex information sent from the flashing port |
+| **Amber** | MIDI / Sysex information both sent and received on the flashing port |
+| | |
+
+You can also touch any of the top row LEDs of the mioXL to call the respective MIDI monitor on the mioXL OLED display.
+
+#### Bottom Row Cap Touch Control
+
+The four bottom capacitive touch buttons are used to navigate through user presets:
+
+| Button | Function |
+| --- | --- |
+| **Back** | Press to highlight the previous preset. Current preset selection does not change until **Load** is pressed. |
+| **Next** | Press to highlight the next preset. Current preset selection does not change until **Load** is pressed.|
+| **Load** | Press to load |
+| **Save** | The active memory preset has no unsaved preset-level configuration changes|
+| | |
+
+### MIDI Panic
 
 Double tap the USB-DAW touch cap button to send a MIDI panic message to all MIDI output ports of the mioXM or mioXL.
 
@@ -326,16 +379,12 @@ Double tap the USB-DAW touch cap button to send a MIDI panic message to all MIDI
 | --- | --- |
 | Output | +12V DC, 3A (36W) |
 | Input  | 100V - 240V AC, 50/60 Hz |
-| Plug   | Center Pin Positive<br>2.5 mm inside diameter <br> 5.5 mm outside diamter <br> 1 2mm length |
-| Model  | iCoonnectivity iCP4 |
+| Plug   | Center Pin Positive<br>2.5 mm inside diameter <br> 5.5 mm outside diameter <br> 12mm length |
+| Model  | iConnectivity iCP4 |
 | | |
 
-### USB-C Ports
+### USB-B Ports
 Connect to Windows or macOS computer(s), Android or iPadOS devices (USB only, Apple Lightning not supported)
-
-### Power
-- Input:    100V - 240V AC, 50 - 60 Hz 24W
-- Fuse:     1A Slow-Blow
 
 ### Dimensions and Weights
 
