@@ -110,7 +110,7 @@ MIDI monitoring applications are very useful for routing debugging and troublesh
 
 Windows: [MIDI-OX](http://www.midiox.com/)
 
-MacOS: [Snoize MIDI monitor and Sysex Librarian](http://www.midiox.com/)
+MacOS: [Snoize MIDI monitor and Sysex Librarian](https://www.snoize.com/)
 
 ## Installing Auracle X
 
@@ -258,7 +258,7 @@ Manual failover allows you to control scene switching at the touch of the Scene 
 
 2. Connect your primary playback computer to USB DAW Port A and connect your backup playback computer to USB DAW Port B and select the PlayAUDIO2U as the output interface on both computers.
 
-3. Route the LifeSine audio channel to output 35 on both computers.
+3. Route the LifeSine audio channel to virtual output 27 on both computers.
 
 4. Verify that the PlayAUDIO2U is set to Scene A, or touch the Scene Mode Button to switch to Scene A from Scene B.
 
@@ -367,7 +367,7 @@ Rotate the encoder to move between the pages listed below, and short press to se
     - Press Exit to climb out of the menu hierarchy.
 
 3. Failover Tone Meter Monitoring including threshold setting
-    - Press to call the output plus Tone Meter Monitoring window where you can view all 32 output meters plus failover tone
+    - Press to call the output plus Tone Meter Monitoring window where you can view all 24 output meters plus failover tone
     - Turn to select between monitoring DAW A or DAW B
 
 Each page will have varying selectable parameters. Short press the encoder to select editable parameters; rotate the encoder to change the value of the selected parameter.
@@ -504,14 +504,14 @@ To select between headphone mixer options:
 
 <img src="../playaudio2d/images/hp/A2.png" alt="Headphone mix A2 detail.">
 
-- All 32 outputs from USB DAW A
+- All 24 outputs from USB DAW A
 - All four analog inputs
 
 ##### Mix A3
 
 <img src="../playaudio2d/images/hp/A3.png" alt="Headphone mix A3 detail.">
 
-- All 32 outputs from USB DAW B
+- All 24 outputs from USB DAW B
 - All four analog inputs
 
 ##### Mix A4

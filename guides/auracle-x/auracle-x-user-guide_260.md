@@ -507,7 +507,7 @@ When using multiple MIDI devices this way, use the USB Host Reservation menu to 
 
 You can connect a powered USB hub to any of our host ports to add more controllers but there will still be a limit for each interface that doesn’t change.
 
-A maximum of eight controllers are supported for the following interfaces: PlayAUDIO2D, PlayAUDIO2U, >PlayAUDIO1U, PlayAUDIO12, AUDIO4+, AUDIO4c, MIDI4+, mio4, mioXM.
+A maximum of eight controllers are supported for the following interfaces: PlayAUDIO2D, PlayAUDIO2U, PlayAUDIO1U, PlayAUDIO12, AUDIO4+, AUDIO4c, MIDI4+, mio4, mioXM.
 
 A maximum of 10 controllers are supported  for the following interfaces: mio10, mioXL.
 
@@ -559,13 +559,11 @@ The control ports on the PlayAUDIO2D, PlayAUDIO2U PlayAUDIO1U can be configured 
 | **Toggle** | Toggles the automatic failover detection between armed and disarmed if a MIDI or Audio signal condition is met. |
 | | |
 
-
 | Preset Load Mode | |
 | :---- | :---- |
 | **No Action** | Activating the control switch takes no action on presets. |
 | **Select**	 | The preset selected in the Preset Number dropdown menu is called. |
 | | |
-
 
 | Send Spacebar | |
 | :---- | :---- |
@@ -586,7 +584,7 @@ Chooses between Preset 1 through Preset 16 to select the preset to recall when P
 
 #### MIDI Message Actions
 
-In addition to failover arm, preset, and scene change messages, the PlayAUDIO1U control ports can be   
+In addition to failover arm, preset, and scene change messages, control ports can be   
 configured to send a MIDI control change, program change, or note when activated.
 
 <img src="images/midi-msg-action.png" width="800" alt="MIDI message actions page with default settings">

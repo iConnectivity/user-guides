@@ -9,7 +9,7 @@ Congratulations on the purchase of your new PlayAUDIO1U USB Audio & MIDI interfa
 
 - Two USB Type C DAW ports – use up to 2 computer devices Mac OS/Windows simultaneously
 - Twelve  XLR analog audio Line Outputs 
-- Stereo ¼” headphone output with two independent mixes (summable to one mix)
+- Stereo 1/4” headphone output with two independent mixes (summable to one mix)
 - DIN-MIDI ports built-in (1-in, 1-out)
 - USB Host port (connect up to 8 USB MIDI class-compliant devices with a USB hub)
 - Two MIDI mappable CONTROL footswitch ports
@@ -51,7 +51,7 @@ Congratulations on the purchase of your new PlayAUDIO1U USB Audio & MIDI interfa
 - **Capacitive (cap) touch buttons & OLED**. Manually switch scenes or inspect real time MIDI and audio information
 - **Rotary Encoder**. Multi-function encoder. Double press to save current settings or spin to cycle through pages in the currently selected page 
 - **USB DAW ports**. USB C ports for connecting computers or tablets.**
-- **3.5mm Headphone port**. Stereo mix
+- **1/4" Headphone port**. Stereo mix
 - **Headphone Rotary Encoder**. Multi-function encoder. Rotate to increase/decrease the headphone mix output volume; this also temporarily calls up the headphone volume display. Additionally: Double press to mute all rear outputs; double press again to unmute; press once to call the headphone volume display, and press again to return to the previous active menu. 
 
 ### Rear Panel
@@ -106,7 +106,7 @@ MIDI monitoring applications are very useful for routing debugging and troublesh
 
 Windows: [MIDI-OX](http://www.midiox.com/)
 
-MacOS: [Snoize MIDI monitor and Sysex Librarian](http://www.midiox.com/)
+MacOS: [Snoize MIDI monitor and Sysex Librarian](https://www.snoize.com/)
 
 ### Installing Auracle X
 
@@ -254,7 +254,7 @@ Manual Failover allows you to control scene switching at the touch of an cap tou
 
 2. Connect your primary playback computer to USB DAW Port A and connect your backup playback computer to USB DAW Port B and select the PlayAUDIO1U as the output interface on both computers.
 
-3. Route the LifeSine audio channel to output 35 on both computers.
+3. Route the LifeSine audio channel to output 15 on both computers.
 
 4. Verify that the PlayAUDIO1U is set to Scene A, or touch the Scene Mode Button to switch to Scene A from Scene B.
 
@@ -327,7 +327,7 @@ Fine adjustments are recommended if there is a risk of signal overload. Rotary E
 | **Commit Settings to Memory** | Short press the Main Rotary Encoder twice to save the current state of the PlayAUDIO1U to the current preset. A notification will appear on the OLED and all Mode buttons will flash green three times.   |
 | **Restart unit** | Long press the main rotary encoder for approximately 10 seconds until all cap touch buttons have turned off after illuminating in red, then release. |
 | **Enter Bootloader Mode** | Long press the main rotary encoder for approximately 6 seconds until all Mode buttons illuminate red and release while buttons are still illuminated red. |
-| **View Failover Tone information** | From the Home page, turn the encoder clockwise to access audio meter displays showing the current level of the failover tone in both numerical and live metering <br>No tone will produce a blank meter display above the “Tone A” and “Tone B” labels. <br>Note that a failover tone level above -3dBFS will cause the PlayAUDIO1U to enter into Safe Mode and all analog and Dante Transmit outputs to be automatically muted. <br>You will not be able to unmute analog outputs until the failover tone level is adjusted below the threshold displayed on the Tone Meter menu page. |
+| **View Failover Tone information** | From the Home page, turn the encoder clockwise to access audio meter displays showing the current level of the failover tone in both numerical and live metering <br>No tone will produce a blank meter display above the “Tone A” and “Tone B” labels. <br>Note that a failover tone level above -3dBFS will cause the PlayAUDIO1U to enter into Safe Mode and all analog outputs to be automatically muted. <br>You will not be able to unmute analog outputs until the failover tone level is adjusted below the threshold displayed on the Tone Meter menu page. |
 
 ### OLED Cap Touch Panel
 <img src="images/playaudio1u-oled-audio.png" alt="PlayAUDIO1U cap touch buttons detail.">
@@ -457,6 +457,7 @@ Complete instructions on configuring Control port footswitch actions can be foun
 ### Audio
 
 **Digital Performance**
+
 - 24-bit resolution
 - Supported sample rates: 44.1 kHz, 48 kHz, 88.2 kHz, and 96 kHz
 
