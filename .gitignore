@@ -1,0 +1,55 @@
+# ------------------------------------------------------------
+# iConnectivity user guides: files that should never be pushed
+# to the public GitHub repository.
+# ------------------------------------------------------------
+
+# --- macOS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.TemporaryItems
+.DocumentRevisions-V100
+
+# --- Windows ---
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- Linux ---
+*~
+.directory
+
+# --- Editors and IDEs ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# --- Office / Pages temporary and lock files ---
+~$*
+.~lock.*#
+
+# --- Secrets and local configuration ---
+.env
+.env.*
+*.pem
+*.p12
+
+# --- Script and build leftovers ---
+node_modules/
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.bak
+
+# --- Internal instructions (not for the public repo) ---
+HOW-TO-WRITE-A-GUIDE.md
+guides/guides-json-entries.txt
