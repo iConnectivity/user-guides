@@ -53,3 +53,4 @@ __pycache__/
 # --- Internal instructions (not for the public repo) ---
 HOW-TO-WRITE-A-GUIDE.md
 guides/guides-json-entries.txt
+SETUP.md
