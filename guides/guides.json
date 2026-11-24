@@ -4,6 +4,8 @@
     {"id": "playaudio2u", "title": "PlayAUDIO2U", "file": "playaudio2u/playaudio2u-user-guide-2026.md", "group": "Audio Interfaces", "pdf": "https://www.iconnectivity.com/s/PlayAUDIO2U-user-guide-2026-03-18.pdf"},  
     {"id": "playaudio1u", "title": "PlayAUDIO1U", "file": "playaudio1u/playaudio1u-user-guide-2026.md", "group": "Audio Interfaces", "pdf": "https://www.iconnectivity.com/s/PlayAUDIO1U-user-guide-2026-03-18.pdf"},
     {"id": "mio-x-series", "title": "mio X-Series", "file": "mio-x-series/mio-x-series-user-guide.md", "group": "MIDI Interfaces", "pdf": "https://www.iconnectivity.com/s/mio-X-Series-User-Guide-v20220503-g9g8.pdf"},
-    {"id": "auracle-x", "title": "Auracle X", "file": "auracle-x/auracle-x-user-guide_260.md", "group": "Control Software", "pdf": "https://www.iconnectivity.com/s/auracle-x-user-guide-260-20261013.pdf"}
+    {"id": "auracle-x", "title": "Auracle X", "file": "auracle-x/auracle-x-user-guide_260.md", "group": "Control Software", "pdf": "https://www.iconnectivity.com/s/auracle-x-user-guide-260-20261013.pdf"},
+    {"id": "sysex-tng", "title": "SysEx Commands (TNG)", "file": "sysex-tng/common-system-exclusive-commands-tng.md", "group": "Developer"},
+    {"id": "sysex-classic", "title": "SysEx Commands (Classic)", "file": "sysex-classic/common-system-exclusive-commands.md", "group": "Developer"}
   ]
 }
